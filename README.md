@@ -9,6 +9,11 @@
    mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special 
    transformations or scaling capabilities.
                        DataSet Link : http://archive.ics.uci.edu/ml/datasets/Iris
+                       
+                       
+## Task 2 - Stock Market Prediction And Forecasting Using Stacked LSTM
+
+Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv                       
 
 
 ## Task 3 - Music Recommendation:
