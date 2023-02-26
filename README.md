@@ -11,6 +11,15 @@
                        DataSet Link : http://archive.ics.uci.edu/ml/datasets/Iris
 
 
+## Task 3 - Music Recommendation:
+
+Music recommender systems can suggest songs to users based on their listening patterns.
+
+Datasetlink :
+https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+
+
 
 ## Task 4 - Image to Pencil Sketch with Python:
 
